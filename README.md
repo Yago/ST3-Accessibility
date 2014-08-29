@@ -1,4 +1,4 @@
-# ST3 Accessbility
+# ST3 Accessibility
 
 A little ST3 package to provide accessibility attributes completion like **WAI ARIA** States and Properties and **Roles**.
 
