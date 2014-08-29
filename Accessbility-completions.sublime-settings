@@ -389,6 +389,14 @@
     [
       "role\ttreeitem\tAccessibility",
       "role=\"treeitem\"$1"
+    ],
+    [
+      "headers\tAccessbility",
+      "headers=\"${1:ID reference list}\""
+    ],
+    [
+      "accesskey\tAccessbility",
+      "accesskey=\"${1:key}\""
     ]
   ]
 
