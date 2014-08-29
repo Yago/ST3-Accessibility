@@ -1,19 +1,157 @@
 {
-	/**
-		Predefined completions
-	**/
+  /**
+    Predefined completions
+  **/
 
-	// Here you can add in your custom angular attributes.
-	// Just override this default property in the 'User' settings.
-	"extended_attribute_list":[],
+  // Here you can add in your custom angular attributes.
+  // Just override this default property in the 'User' settings.
+  "extended_attribute_list":[],
 
-	// You can copy/paste this property list over to 'User' settings
-	// and override them if you wish.
-	"core_attribute_list": [
-		[
-			"aria\tAccessbility",
-			"aria-busy=\"${1:string}\"$0"
-		]
-	]
+  // You can copy/paste this property list over to 'User' settings
+  // and override them if you wish.
+  "core_attribute_list": [
+    [
+      "aria-activedescendant\tAccessbility",
+      "aria-activedescendant=\"${1:ID reference}\""
+    ],
+    [
+      "aria-atomic\tAccessbility",
+      "aria-atomic=\"${1:true/false}\""
+    ],
+    [
+      "aria-autocomplete\tAccessbility",
+      "aria-autocomplete=\"${1:inline/list/both/none}\""
+    ],
+    [
+      "aria-busy\tAccessbility",
+      "aria-busy=\"${1:true/false}\""
+      ],
+    [
+      "aria-checked\tAccessbility",
+      "aria-checked=\"${1:true/false/mixed/undefined}\""
+    ],
+    [
+      "aria-controls\tAccessbility",
+      "aria-controls=\"${1:ID reference}\""
+    ],
+    [
+      "aria-describedby\tAccessbility",
+      "aria-describedby=\"${1:ID reference list}\""
+    ],
+    [
+      "aria-disabled\tAccessbility",
+      "aria-disabled=\"${1:true/false}\""
+    ],
+    [
+      "aria-dropeffect\tAccessbility",
+      "aria-dropeffect=\"${1:token list}\""
+    ],
+    [
+      "aria-expanded\tAccessbility",
+      "aria-expanded=\"${1:true/false/undefined}\""
+    ],
+    [
+      "aria-flowto\tAccessbility",
+      "aria-flowto=\"${1:ID reference list}\""
+    ],
+    [
+      "aria-grabbed\tAccessbility",
+      "aria-grabbed=\"${1:true/false/undefined}\""
+    ],
+    [
+      "aria-haspopup\tAccessbility",
+      "aria-haspopup=\"${1:true/false}\""
+    ],
+    [
+      "aria-hidden\tAccessbility",
+      "aria-hidden=\"${1:true/false}\""
+    ],
+    [
+      "aria-invalid\tAccessbility",
+      "aria-invalid=\"${1:grammar/false/spelling/true}\""
+    ],
+    [
+      "aria-label\tAccessbility",
+      "aria-label=\"${1:string}\""
+    ],
+    [
+      "aria-labelledby\tAccessbility",
+      "aria-labelledby=\"${1:ID reference list}\""
+    ],
+    [
+      "aria-level\tAccessbility",
+      "aria-level=\"${1:integer}\""
+    ],
+    [
+      "aria-live\tAccessbility",
+      "aria-live=\"${1:off/polite/assertive}\""
+    ],
+    [
+      "aria-multiline\tAccessbility",
+      "aria-multiline=\"${1:true/false}\""
+    ],
+    [
+      "aria-multiselectable\tAccessbility",
+      "aria-multiselectable=\"${1:true/false}\""
+    ],
+    [
+      "aria-orientation\tAccessbility",
+      "aria-orientation=\"${1:vertical/horizontal}\""
+    ],
+    [
+      "aria-owns\tAccessbility",
+      "aria-owns=\"${1:ID reference list}\""
+    ],
+    [
+      "aria-posinset\tAccessbility",
+      "aria-posinset=\"${1:integer}\""
+    ],
+    [
+      "aria-pressed\tAccessbility",
+      "aria-pressed=\"${1:true/false/mixed/undefined}\""
+    ],
+    [
+      "aria-readonly\tAccessbility",
+      "aria-readonly=\"${1:true/false}\""
+    ],
+    [
+      "aria-relevant\tAccessbility",
+      "aria-relevant=\"${1:additions/removals/text/all/additions text}\""
+    ],
+    [
+      "aria-required\tAccessbility",
+      "aria-required=\"${1:true/false}\""
+    ],
+    [
+      "aria-selected\tAccessbility",
+      "aria-selected=\"${1:true/false/undefined}\""
+    ],
+    [
+      "aria-setsize\tAccessbility",
+      "aria-setsize=\"${1:integer}\""
+    ],
+    [
+      "aria-sort\tAccessbility",
+      "aria-sort=\"${1:ascending/descending/none/other}\""
+    ],
+    [
+      "aria-valuemax\tAccessbility",
+      "aria-valuemax=\"${1:number}\""
+    ],
+    [
+      "aria-valuemin\tAccessbility",
+      "aria-valuemin=\"${1:number}\""
+    ],
+    [
+      "aria-valuenow\tAccessbility",
+      "aria-valuenow=\"${1:number}\""
+    ],
+    [
+      "aria-valuetext\tAccessbility",
+      "aria-valuetext=\"${1:string}\""
+    ]
+  ]
 
 }
+
+
