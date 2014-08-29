@@ -6,11 +6,11 @@ A little ST3 package to provide accessibility attributes completion like **WAI A
 
 ## Installation
 
-### Using [package mangager](https://sublime.wbond.net/installation)
+#### Using [package mangager](https://sublime.wbond.net/installation)
 
 Type "Accessbility" and press enter.
 
-### Manualy
+#### Manualy
 
 Clone or Download this repo and place it inside the `Packages` directory. To access, just go to `Sublime text > Preferences > Browse Packages` inside your favorite editor.
 
@@ -22,5 +22,9 @@ More infos about [ARIA States and Properties](http://www.w3.org/TR/wai-aria/stat
 ## Contribution
 
 Don't hesitate to help us by commenting this repository or making pull request.
+
+## Credits
+
+Based on the [AngularJS](https://github.com/angular-ui/AngularJS-sublime-package) package.
 
 
