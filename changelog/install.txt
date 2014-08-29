@@ -1,18 +1,26 @@
-Accessbility 1.0.0
---------------------
+# ST3 Accessbility
 
-This version of Accessbility is now a merge of the following two packages:
-Accessbility - http://deansofer.com/projects/view/74/Accessbility_tmbundle
-Accessbility Attributes Completion - http://subhaze.github.io/Accessbility-attributes
+A little ST3 package to provide accessibility attributes completion like **WAI ARIA** States and Properties and **Roles**.
 
-This new package provides similar functionality of the two but with added features and options.
+![ST3 accessibility demo](demo.gif)
 
-Some of the added features are:
-- Quick Panel search of directives/controllers/filters/etc...
-- GoTo definition for directives
-- GoToDocs for core Accessbility directives
-- Directive completions for your custom defined directives
+## Installation
 
-To find out more checkout the readme at https://github.com/angular-ui/Accessbility-sublime-package
+### Using [package mangager](https://sublime.wbond.net/installation)
 
-Report issues at https://github.com/angular-ui/Accessbility-sublime-package/issues
+Type "Accessbility" and press enter.
+
+### Manualy
+
+Clone or Download this repo and place it inside the `Packages` directory. To access, just go to `Sublime text > Preferences > Browse Packages` inside your favorite editor.
+
+
+## Documentation
+
+More infos about [ARIA States and Properties](http://www.w3.org/TR/wai-aria/states_and_properties). And check this [page](http://www.w3.org/TR/wai-aria/roles) to know more about Roles.
+
+## Contribution
+
+Don't hesitate to help us by commenting this repository or making pull request.
+
+
