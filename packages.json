@@ -1,20 +1,10 @@
 {
-  "schema_version": "1.2",
   "packages": [
     {
       "name": "Accessbility",
-      "author": "angular-ui",
-      "description": "Accessbility code completion, snippets, go to definition, quick panel search, and more.",
-      "homepage": "https://github.com/angular-ui/Accessbility-sublime-package",
-      "last_modified": "2013-07-01 20:59:44",
-      "platforms": {
-        "*": [
-          {
-            "version": "1.0.1",
-            "url": "https://nodeload.github.com/angular-ui/Accessbility-sublime-package/zip/1.0.1"
-          }
-        ]
-      }
+      "author": "Yago",
+      "description": "Sublime Text 3 accessibility markup helper",
+      "homepage": ""
     }
   ]
 }
