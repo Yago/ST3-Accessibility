@@ -1,0 +1,53 @@
+[
+	{
+		"caption": "Accessbility: Rebuild Search Index",
+		"command": "Accessbility_file_index"
+	},
+	{
+		"caption": "Accessbility: Delete Cache",
+		"command": "Accessbility_delete_cache"
+	},
+	{
+		"caption": "Accessbility: Prune Cache",
+		"command": "Accessbility_prune_cache"
+	},
+	{
+		"caption": "Accessbility: Look Up Definition",
+		"command": "Accessbility_find"
+	},
+	{
+	    "caption": "Accessbility: Toggle - Disable All Completions",
+	    "command": "Accessbility_toggle_settings",
+	    "args": {"setting": "disable_all_completions"}
+	},
+	{
+	    "caption": "Accessbility: Toggle - Disable Indexed Directive Completions",
+	    "command": "Accessbility_toggle_settings",
+	    "args": {"setting": "disable_indexed_directive_completions"}
+	},
+	{
+	    "caption": "Accessbility: Toggle - Disable Indexed Isolate Completions",
+	    "command": "Accessbility_toggle_settings",
+	    "args": {"setting": "disable_indexed_isolate_completions"}
+	},
+	{
+	    "caption": "Accessbility: Toggle - Disable Built-in Directive Completions",
+	    "command": "Accessbility_toggle_settings",
+	    "args": {"setting": "disable_default_directive_completions"}
+	},
+	{
+	    "caption": "Accessbility: Toggle - Disable Built-in Element Completions",
+	    "command": "Accessbility_toggle_settings",
+	    "args": {"setting": "disable_default_element_completions"}
+	},
+	{
+	    "caption": "Accessbility: Toggle - Disable JS Completions",
+	    "command": "Accessbility_toggle_settings",
+	    "args": {"setting": "disable_default_js_completions"}
+	},
+	{
+	    "caption": "Accessbility: Toggle - Enable data- Prefix",
+	    "command": "Accessbility_toggle_settings",
+	    "args": {"setting": "enable_data_prefix"}
+	}
+]

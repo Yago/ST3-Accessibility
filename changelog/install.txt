@@ -1,0 +1,18 @@
+Accessbility 1.0.0
+--------------------
+
+This version of Accessbility is now a merge of the following two packages:
+Accessbility - http://deansofer.com/projects/view/74/Accessbility_tmbundle
+Accessbility Attributes Completion - http://subhaze.github.io/Accessbility-attributes
+
+This new package provides similar functionality of the two but with added features and options.
+
+Some of the added features are:
+- Quick Panel search of directives/controllers/filters/etc...
+- GoTo definition for directives
+- GoToDocs for core Accessbility directives
+- Directive completions for your custom defined directives
+
+To find out more checkout the readme at https://github.com/angular-ui/Accessbility-sublime-package
+
+Report issues at https://github.com/angular-ui/Accessbility-sublime-package/issues

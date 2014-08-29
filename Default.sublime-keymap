@@ -1,0 +1,14 @@
+[
+	{
+		"keys": ["super+ctrl+l"],
+		"command": "Accessbility_find"
+	},
+	{
+		"keys": ["super+alt+ctrl+l"],
+		"command": "Accessbility_go_to_definition"
+	},
+	{
+		"keys": ["super+ctrl+shift+l"],
+		"command": "Accessbility_go_to_documentation"
+	}
+]

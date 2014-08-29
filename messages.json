@@ -1,0 +1,4 @@
+{
+	"install": "changelog/install.txt",
+	"1.0.1": "changelog/1.0.0.txt"
+}
